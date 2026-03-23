@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<level width="1386" height="1024">
+	<declarations>
+		<background id="i001" image="background2.png"/>
+		<paddle id="i004" image="lifebuoy.png"/>
+		<brick id="i008" image="brick1.png" value="10"/>
+		<power-up id="i010" image="sparty.png"/>
+		<enemy id="i012" image="enemy.png"/>
+		<ball id="i014" image="ball.png"/>
+		<coin id="i015" image="coin-0.png" value="50" frames="8"/>
+	</declarations>
+	<items>
+		<background id="i001" x="768" y="512"/>
+		<paddle id="i004" x="691" y="995"/>
+		<ball id="i014" x="691" y="925"/>
+		<power-up id="i010" x="691" y="450"/>
+		<enemy id="i012" x="1882" y="150"/>
+		<brick id="i008" x="89" y="300"/>
+		<brick id="i008" x="289" y="300"/>
+		<brick id="i008" x="489" y="300"/>
+		<brick id="i008" x="889" y="300"/>
+		<brick id="i008" x="1089" y="300"/>
+		<brick id="i008" x="1289" y="300"/>
+		<brick id="i008" x="89" y="400"/>
+		<brick id="i008" x="289" y="400"/>
+		<brick id="i008" x="489" y="400"/>
+		<brick id="i008" x="889" y="400"/>
+		<brick id="i008" x="1089" y="400"/>
+		<brick id="i008" x="1289" y="400"/>
+		<brick id="i008" x="89" y="500"/>
+		<brick id="i008" x="289" y="500"/>
+		<brick id="i008" x="489" y="500"/>
+		<brick id="i008" x="889" y="500"/>
+		<brick id="i008" x="1089" y="500"/>
+		<brick id="i008" x="1289" y="500"/>
+		<brick id="i008" x="89" y="600"/>
+		<brick id="i008" x="289" y="600"/>
+		<brick id="i008" x="489" y="600"/>
+		<brick id="i008" x="889" y="600"/>
+		<brick id="i008" x="1089" y="600"/>
+		<brick id="i008" x="1289" y="600"/>
+	</items>
+</level>
